@@ -41,6 +41,24 @@ void main(){
 ```
 
 시작 합니다
+```js
+import 'package:flutter/material.dart';
+
+class TabPage extends StatefulWidget {
+  @override
+  _TabPageState createState() => _TabPageState();
+}
+
+class _TabPageState extends State<TabPage> {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      child: Text('tab page'),
+    );
+  }
+}
+
+```
 ![](https://i.ibb.co/QrLjS6J/2020-07-06-9-26-05.png)
 ![](https://i.ibb.co/BncVxvC/2020-07-06-9-24-45.png)
 ```js
@@ -77,6 +95,6 @@ class _TabPageState extends State<TabPage> {
 ![](https://i.ibb.co/Y36Pdj5/2020-07-06-9-17-03.png)
 ![](https://i.ibb.co/k8J1gJn/2020-07-06-9-18-01.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mzg1NDYyNSwtMjcyNjYzODM1LDE4Nz
-U4MDQ1NywtNTU3NDQxNzM5LC0xOTMxMjIwNDg4XX0=
+eyJoaXN0b3J5IjpbNzgxMjE4MTkzLC0yNzI2NjM4MzUsMTg3NT
+gwNDU3LC01NTc0NDE3MzksLTE5MzEyMjA0ODhdfQ==
 -->
