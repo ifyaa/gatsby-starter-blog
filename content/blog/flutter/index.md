@@ -7,7 +7,7 @@ description: flotter 이야기를 합니다.
 
 **[강의동영상](https://www.youtube.com/watch?v=LzG-vkmpDIc)(https://www.youtube.com/watch?v=LzG-vkmpDIc)
 
-
+[source](https://github.com/dickyrey/instagramclone)
 
 
 ```ls
@@ -97,8 +97,8 @@ class _TabPageState extends State<TabPage> {
 ![](https://i.ibb.co/TYG9kc5/2020-07-06-9-50-35.png)
 ![](https://i.ibb.co/nsmbYhQ/2020-07-06-9-53-09.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMzI3Mzk5LDk4NzkxNjg4NywtNzg1Mz
-Q0MzMwLC0xNTg5MTU1NjY3LC0xMjk4NjE5MTg1LC0yNzI2NjM4
-MzUsMTg3NTgwNDU3LC01NTc0NDE3MzksLTE5MzEyMjA0ODhdfQ
-==
+eyJoaXN0b3J5IjpbMjEwMjI1OTcwNSwzNjEzMjczOTksOTg3OT
+E2ODg3LC03ODUzNDQzMzAsLTE1ODkxNTU2NjcsLTEyOTg2MTkx
+ODUsLTI3MjY2MzgzNSwxODc1ODA0NTcsLTU1NzQ0MTczOSwtMT
+kzMTIyMDQ4OF19
 -->
