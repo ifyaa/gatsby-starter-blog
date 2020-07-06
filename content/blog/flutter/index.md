@@ -43,12 +43,40 @@ void main(){
 
 ![](https://i.ibb.co/QrLjS6J/2020-07-06-9-26-05.png)
 ![](https://i.ibb.co/BncVxvC/2020-07-06-9-24-45.png)
+```js
+import 'package:flutter/material.dart';
+
+class TabPage extends StatefulWidget {
+  @override
+  _TabPageState createState() => _TabPageState();
+}
+
+class _TabPageState extends State<TabPage> {
+  @override
+  Widget build(BuildContext context) {
+    // return Container(
+    //   child: Text('tab page'),
+    // );
+    return Scaffold(
+      bottomNavigationBar: BottomNavigationBar(
+        items: <BottomNavigationBarItem>[
+          BottomNavigationBarItem(icon: Icon(Icons.home), title: Text('Home')),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.search), title: Text('Search')),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.account_circle), title: Text('Account')),
+        ],
+      ),
+    );
+  }
+}
+```
 ![](https://i.ibb.co/GM9NwFv/2020-07-06-9-19-34.png)
 ![](https://i.ibb.co/ZXj80K2/2020-07-06-9-15-58.png)
 ![](https://i.ibb.co/pzYDggs/2020-07-06-9-16-26.png)
 ![](https://i.ibb.co/Y36Pdj5/2020-07-06-9-17-03.png)
 ![](https://i.ibb.co/k8J1gJn/2020-07-06-9-18-01.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTA2Nzk5NDEsLTI3MjY2MzgzNSwxOD
-c1ODA0NTcsLTU1NzQ0MTczOSwtMTkzMTIyMDQ4OF19
+eyJoaXN0b3J5IjpbLTU0MzQ0MjUxLC0yNzI2NjM4MzUsMTg3NT
+gwNDU3LC01NTc0NDE3MzksLTE5MzEyMjA0ODhdfQ==
 -->
