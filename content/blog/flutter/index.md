@@ -99,14 +99,14 @@ class _TabPageState extends State<TabPage> {
 
 
 flutter widget 종류
-
+[enter link description here](https://bsscco.github.io/posts/flutter-layout-widgets/)
 text
 Row, Column:
 atack
 Container
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NTEyNzkwMiwyMTAyMjU5NzA1LDM2MT
-MyNzM5OSw5ODc5MTY4ODcsLTc4NTM0NDMzMCwtMTU4OTE1NTY2
-NywtMTI5ODYxOTE4NSwtMjcyNjYzODM1LDE4NzU4MDQ1NywtNT
-U3NDQxNzM5LC0xOTMxMjIwNDg4XX0=
+eyJoaXN0b3J5IjpbNTQxNDE4NDQ1LC0zODUxMjc5MDIsMjEwMj
+I1OTcwNSwzNjEzMjczOTksOTg3OTE2ODg3LC03ODUzNDQzMzAs
+LTE1ODkxNTU2NjcsLTEyOTg2MTkxODUsLTI3MjY2MzgzNSwxOD
+c1ODA0NTcsLTU1NzQ0MTczOSwtMTkzMTIyMDQ4OF19
 -->
