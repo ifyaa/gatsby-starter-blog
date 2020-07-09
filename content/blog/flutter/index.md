@@ -96,9 +96,17 @@ class _TabPageState extends State<TabPage> {
 ![](https://i.ibb.co/2jZgZbf/2020-07-06-9-48-20.png)
 ![](https://i.ibb.co/TYG9kc5/2020-07-06-9-50-35.png)
 ![](https://i.ibb.co/nsmbYhQ/2020-07-06-9-53-09.png)
+
+
+flutter widget 종류
+
+text
+Row, Column:
+atack
+Container
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjI1OTcwNSwzNjEzMjczOTksOTg3OT
-E2ODg3LC03ODUzNDQzMzAsLTE1ODkxNTU2NjcsLTEyOTg2MTkx
-ODUsLTI3MjY2MzgzNSwxODc1ODA0NTcsLTU1NzQ0MTczOSwtMT
-kzMTIyMDQ4OF19
+eyJoaXN0b3J5IjpbLTM4NTEyNzkwMiwyMTAyMjU5NzA1LDM2MT
+MyNzM5OSw5ODc5MTY4ODcsLTc4NTM0NDMzMCwtMTU4OTE1NTY2
+NywtMTI5ODYxOTE4NSwtMjcyNjYzODM1LDE4NzU4MDQ1NywtNT
+U3NDQxNzM5LC0xOTMxMjIwNDg4XX0=
 -->
