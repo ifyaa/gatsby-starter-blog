@@ -1,7 +1,7 @@
 ---
 title: fluttter_net
 date: "2020-07-11"
-description: "권태형"
+description: "네플릭스"
 ---
 
 [강의](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec01-post/)
@@ -130,5 +130,5 @@ class Bottom extends StatelessWidget {
 
 ![Chinese Salty Egg](./salty_egg.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA1MDI0NDJdfQ==
+eyJoaXN0b3J5IjpbMzM0Mjk1Mzg0LC0xMDMwNTAyNDQyXX0=
 -->
