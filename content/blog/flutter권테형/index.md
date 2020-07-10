@@ -6,20 +6,66 @@ description: "권태형"
 
 [강의](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec01-post/)
 
-I'm sure I'll write a lot more interesting things in the future.
+```js
+// lib/main.dart
+import 'package:flutter/material.dart';
+import 'package:netflix_clone_lecture_note/widget/bottom_bar.dart';
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+void main() => runApp(MyApp());
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+class MyApp extends StatefulWidget {
+  _MyAppState createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+  TabController controller;
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Bbongflix',
+      theme: ThemeData(
+        brightness: Brightness.dark,
+        primaryColor: Colors.black,
+        accentColor: Colors.white,
+      ),
+      home: DefaultTabController(
+        length: 4,
+        child: Scaffold(
+          body: TabBarView(
+            physics: NeverScrollableScrollPhysics(),
+            children: <Widget>[
+              Container(
+                child: Center(
+                  child: Text('home'),
+                ),
+              ),
+              Container(
+                child: Center(
+                  child: Text('search'),
+                ),
+              ),
+              Container(
+                child: Center(
+                  child: Text('save'),
+                ),
+              ),
+              Container(
+                child: Center(
+                  child: Text('more'),
+                ),
+              ),
+            ],
+          ),
+          bottomNavigationBar: Bottom(),
+        ),
+      ),
+    );
+  }
+}
+```
+
 
 ![Chinese Salty Egg](./salty_egg.jpg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQwMDg2NTddfQ==
+eyJoaXN0b3J5IjpbMTAxNzI3OTAxM119
 -->
