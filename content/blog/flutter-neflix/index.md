@@ -6,7 +6,7 @@ description: "netflix"
 
 [강의](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec01-post/)
 ![](https://i.ibb.co/tHyBv8v/Screen-Shot-2020-07-12-at-8-26-00-AM.png)
-01
+01 bottom Menu
 ```js
 // lib/main.dart
 import 'package:flutter/material.dart';
@@ -146,7 +146,7 @@ flutter:
 // lib/main.dart
 import 'package:flutter/material.dart';
 import 'package:netflix_clone_lecture_note/screen/home_screen.dart';
-import 'package:netflix_clone_lecture_note/widget/bottom_bar.dart';
+import 'package:netflix_clone_lecture_note/widget/bottom_bar.dart';-------->
 
 void main() => runApp(MyApp());
 
@@ -171,7 +171,7 @@ class _MyAppState extends State<MyApp> {
           body: TabBarView(
             physics: NeverScrollableScrollPhysics(),
             children: <Widget>[
-              HomeScreen(),
+              HomeScreen(),                     ------------------>
               Container(
                 child: Center(
                   child: Text('search'),
@@ -259,6 +259,6 @@ class TopBar extends StatelessWidget {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI2Nzc2MzYsNDUxNDcxNjY1LC0yMD
-E2OTgxMjIxLC01NTEyNTc0OTVdfQ==
+eyJoaXN0b3J5IjpbNjcyMDA3NDYwLDQ1MTQ3MTY2NSwtMjAxNj
+k4MTIyMSwtNTUxMjU3NDk1XX0=
 -->
