@@ -132,13 +132,6 @@ class Bottom extends StatelessWidget {
 ![](https://i.ibb.co/qx73NGt/Screen-Shot-2020-07-12-at-8-24-26-AM.png)
 ```js
 # pubspec.yaml
-flutter:
-  # The following line ensures that the Material Icons font is
-  # included with your application, so that you can use the icons in
-  # the material Icons class.
-  uses-material-design: true
-
-  # To add assets to your application, add an assets section, like this:
   assets:
     - images/bbongflix_logo.png
 ```
@@ -259,6 +252,6 @@ class TopBar extends StatelessWidget {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMDA3NDYwLDQ1MTQ3MTY2NSwtMjAxNj
+eyJoaXN0b3J5IjpbNjU1NzU5MTM0LDQ1MTQ3MTY2NSwtMjAxNj
 k4MTIyMSwtNTUxMjU3NDk1XX0=
 -->
