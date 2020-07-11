@@ -128,7 +128,8 @@ class Bottom extends StatelessWidget {
 }
 ```
 
-02 상단바
+02 상단바[enter link description here](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37784)
+
 ```js
 # pubspec.yaml
 flutter:
@@ -258,5 +259,6 @@ class TopBar extends StatelessWidget {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY5ODEyMjEsLTU1MTI1NzQ5NV19
+eyJoaXN0b3J5IjpbNDUxNDcxNjY1LC0yMDE2OTgxMjIxLC01NT
+EyNTc0OTVdfQ==
 -->
