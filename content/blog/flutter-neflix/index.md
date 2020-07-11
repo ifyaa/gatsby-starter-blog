@@ -5,7 +5,7 @@ description: "netflix"
 ---
 
 [강의](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec01-post/)
-
+![](https://i.ibb.co/tHyBv8v/Screen-Shot-2020-07-12-at-8-26-00-AM.png)
 01
 ```js
 // lib/main.dart
@@ -129,7 +129,7 @@ class Bottom extends StatelessWidget {
 ```
 
 02 상단바[enter link description here](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37784)
-
+![](https://i.ibb.co/qx73NGt/Screen-Shot-2020-07-12-at-8-24-26-AM.png)
 ```js
 # pubspec.yaml
 flutter:
@@ -259,6 +259,6 @@ class TopBar extends StatelessWidget {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNDcxNjY1LC0yMDE2OTgxMjIxLC01NT
-EyNTc0OTVdfQ==
+eyJoaXN0b3J5IjpbLTEzODI2Nzc2MzYsNDUxNDcxNjY1LC0yMD
+E2OTgxMjIxLC01NTEyNTc0OTVdfQ==
 -->
