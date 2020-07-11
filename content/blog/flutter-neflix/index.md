@@ -128,7 +128,75 @@ class Bottom extends StatelessWidget {
 }
 ```
 
-![Chinese Salty Egg](./salty_egg.jpg)
+02 상단바
+```js
+# pubspec.yaml
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/bbongflix_logo.png
+```
+```js
+// lib/main.dart
+import 'package:flutter/material.dart';
+import 'package:netflix_clone_lecture_note/screen/home_screen.dart';
+import 'package:netflix_clone_lecture_note/widget/bottom_bar.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatefulWidget {
+  _MyAppState createState() => _MyAppState();
+}
+
+class _MyAppState extends State<MyApp> {
+  TabController controller;
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Bbongflix',
+      theme: ThemeData(
+        brightness: Brightness.dark,
+        primaryColor: Colors.black,
+        accentColor: Colors.white,
+      ),
+      home: DefaultTabController(
+        length: 4,
+        child: Scaffold(
+          body: TabBarView(
+            physics: NeverScrollableScrollPhysics(),
+            children: <Widget>[
+              HomeScreen(),
+              Container(
+                child: Center(
+                  child: Text('search'),
+                ),
+              ),
+              Container(
+                child: Center(
+                  child: Text('save'),
+                ),
+              ),
+              Container(
+                child: Center(
+                  child: Text('more'),
+                ),
+              ),
+            ],
+          ),
+          bottomNavigationBar: Bottom(),
+        ),
+      ),
+    );
+  }
+}
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTI1NzQ5NV19
+eyJoaXN0b3J5IjpbLTE2ODgxMDY4NzksLTU1MTI1NzQ5NV19
 -->
