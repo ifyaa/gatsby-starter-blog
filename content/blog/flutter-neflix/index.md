@@ -360,7 +360,7 @@ class TopBar extends StatelessWidget {
 }
 ```
 ## 04 홈 화면에 이미지 캐로셀 슬라이더
-https://i.ibb.co/hg0H3ns/Screen-Shot-2020-07-12-at-11-04-34-AM.png
+![](https://i.ibb.co/hg0H3ns/Screen-Shot-2020-07-12-at-11-04-34-AM.png)
 [source](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec04-post/)
 [강의](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37786)
 ```js
@@ -615,7 +615,7 @@ List<Widget> makeIndicator(List list, int _currentPage) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkzOTQ4MjAsLTQyMDgzNjQwOCw2NT
-U3NTkxMzQsNDUxNDcxNjY1LC0yMDE2OTgxMjIxLC01NTEyNTc0
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTk4MDM2Njg2NCwtNDIwODM2NDA4LDY1NT
+c1OTEzNCw0NTE0NzE2NjUsLTIwMTY5ODEyMjEsLTU1MTI1NzQ5
+NV19
 -->
