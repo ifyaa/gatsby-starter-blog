@@ -16,7 +16,7 @@ description: clerosul slider.
 회전하기
 [참고사이트](https://medium.com/@quswlals822/flutter-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%8F%8C%EB%A6%AC%EA%B8%B0-7f4914dcc966)
 ![](https://i.ibb.co/vH0Bq8Q/Screen-Shot-2020-07-12-at-4-35-31-PM.png)
-[참고사이트](https://medium.com/@quswlals822/flutter-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%8F%8C%EB%A6%AC%EA%B8%B0-7f4914dcc966)
+
 ```js
 import 'package:flutter/material.dart';
 
@@ -80,6 +80,6 @@ class _MyHomePageState extends State<MyHomePage> {
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1MjcwNjk0LDMxMjc1ODAyMCwtNjU4Mj
-YzMjc0LDIwMzk2NjczNzFdfQ==
+eyJoaXN0b3J5IjpbLTg3MTgxODcyNywzMTI3NTgwMjAsLTY1OD
+I2MzI3NCwyMDM5NjY3MzcxXX0=
 -->
