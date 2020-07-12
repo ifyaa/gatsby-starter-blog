@@ -13,11 +13,73 @@ description: clerosul slider.
 
 [다른강의들 참고](https://www.youtube.com/channel/UCNQLusaGT0qnCMpK2TBQFAA)
 
-
+회전하기
+[참고사이트](https://medium.com/@quswlals822/flutter-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%8F%8C%EB%A6%AC%EA%B8%B0-7f4914dcc966)
 ![](https://i.ibb.co/vH0Bq8Q/Screen-Shot-2020-07-12-at-4-35-31-PM.png)
+[참고사이트](https://medium.com/@quswlals822/flutter-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%8F%8C%EB%A6%AC%EA%B8%B0-7f4914dcc966)
+```js
+import 'package:flutter/material.dart';
 
+void main() {
+  runApp(new RotationIconApp());
+}
+
+class RotationIconApp extends StatelessWidget {
+  Widget build(BuildContext context) {
+    return new MaterialApp(
+      title: 'Flutter Deme',
+      theme: new ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: new MyHomePage(title: 'icon rotation'),
+    );
+  }
+}
+
+class MyHomePage extends StatefulWidget {
+  MyHomePage({Key key, this.title}) : super(key: key);
+  final String title;
+
+  @override
+  _MyHomePageState createState() => new _MyHomePageState();
+}
+
+class _MyHomePageState extends State<MyHomePage> {
+  var _position = 0.0;
+
+  @override
+  Widget build(BuildContext context) {
+    return new Scaffold(
+        appBar: new AppBar(
+          title: new Text(widget.title),
+        ),
+        body: new Center(
+            child: new Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            new Slider(
+                value: _position,
+                onChanged: (var position) {
+                  setState(() {
+                    _position = position;
+                  });
+                }),
+            new Transform.rotate(
+              angle: _position * 2 * 3.14,
+              child: Icon(Icons.android),
+            ),
+            new Transform.rotate(
+              angle: _position * -2 * 3.14,
+              child: Icon(Icons.android),
+            ),
+          ],
+        )));
+  }
+}
+
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0MjIwMDExLDMxMjc1ODAyMCwtNjU4Mj
+eyJoaXN0b3J5IjpbNTE1MjcwNjk0LDMxMjc1ODAyMCwtNjU4Mj
 YzMjc0LDIwMzk2NjczNzFdfQ==
 -->
