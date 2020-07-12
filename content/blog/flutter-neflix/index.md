@@ -250,8 +250,43 @@ class TopBar extends StatelessWidget {
   }
 }
 ```
-03   [source](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec03-post/)
+03   
+[source](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec03-post/)
+[강의](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37785)
+```js
+# pubspec.yaml
+# The following section is specific to Flutter.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - images/bbongflix_logo.png
+    - images/test_movie_1.png
+```
+```js
+// lib/model/model_movie.dart
+class Movie {
+  final String title;
+  final String keyword;
+  final String poster;
+  final bool like;
+
+  Movie.fromMap(Map<String, dynamic> map)
+      : title = map['title'],
+        keyword = map['keyword'],
+        poster = map['poster'],
+        like = map['like'];
+
+  @override
+  String toString() => "Movie<$title:$keyword>";
+}
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNTIxNjUsNjU1NzU5MTM0LDQ1MTQ3MT
-Y2NSwtMjAxNjk4MTIyMSwtNTUxMjU3NDk1XX0=
+eyJoaXN0b3J5IjpbNTk1MjEzMTI3LDY1NTc1OTEzNCw0NTE0Nz
+E2NjUsLTIwMTY5ODEyMjEsLTU1MTI1NzQ5NV19
 -->
