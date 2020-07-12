@@ -7,11 +7,13 @@ description: clerosul slider.
 [# Carousel Slider](https://www.youtube.com/watch?v=SGLyKxTAo00)
 ![](https://i.ibb.co/2MD5KYh/Screen-Shot-2020-07-12-at-11-22-31-AM.png)
 
+
 [# Carrossel](https://www.youtube.com/watch?v=YB9Hd1laVB4)
 
 
 [다른강의들 참고](https://www.youtube.com/channel/UCNQLusaGT0qnCMpK2TBQFAA)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODI2MzI3NCwyMDM5NjY3MzcxXX0=
+eyJoaXN0b3J5IjpbMzEyNzU4MDIwLC02NTgyNjMyNzQsMjAzOT
+Y2NzM3MV19
 -->
