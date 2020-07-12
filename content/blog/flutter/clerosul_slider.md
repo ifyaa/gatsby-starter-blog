@@ -12,8 +12,12 @@ description: clerosul slider.
 
 
 [다른강의들 참고](https://www.youtube.com/channel/UCNQLusaGT0qnCMpK2TBQFAA)
+
+
+![](https://i.ibb.co/vH0Bq8Q/Screen-Shot-2020-07-12-at-4-35-31-PM.png)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNzU4MDIwLC02NTgyNjMyNzQsMjAzOT
-Y2NzM3MV19
+eyJoaXN0b3J5IjpbNjE0MjIwMDExLDMxMjc1ODAyMCwtNjU4Mj
+YzMjc0LDIwMzk2NjczNzFdfQ==
 -->
