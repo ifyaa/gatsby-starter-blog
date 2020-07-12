@@ -359,9 +359,9 @@ class TopBar extends StatelessWidget {
   }
 }
 ```
-
+# 04 홈 화면에 이미지 캐로셀 슬라이더
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTkzMzM5NywtNDIwODM2NDA4LDY1NT
-c1OTEzNCw0NTE0NzE2NjUsLTIwMTY5ODEyMjEsLTU1MTI1NzQ5
-NV19
+eyJoaXN0b3J5IjpbNDU4NjI5NDQyLC00MjA4MzY0MDgsNjU1Nz
+U5MTM0LDQ1MTQ3MTY2NSwtMjAxNjk4MTIyMSwtNTUxMjU3NDk1
+XX0=
 -->
