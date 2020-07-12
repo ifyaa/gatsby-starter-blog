@@ -3,10 +3,10 @@ title: fluttter_net
 date: "2020-07-11"
 description: "netflix"
 ---
-
+## 01 bottom Menu
 [강의](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec01-post/)
 ![](https://i.ibb.co/tHyBv8v/Screen-Shot-2020-07-12-at-8-26-00-AM.png)
-01 bottom Menu
+
 ```js
 // lib/main.dart
 import 'package:flutter/material.dart';
@@ -128,7 +128,7 @@ class Bottom extends StatelessWidget {
 }
 ```
 
-02 상단바[enter link description here](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37784)
+## 02 상단바[enter link description here](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37784)
 ![](https://i.ibb.co/qx73NGt/Screen-Shot-2020-07-12-at-8-24-26-AM.png)
 ```js
 # pubspec.yaml
@@ -250,7 +250,7 @@ class TopBar extends StatelessWidget {
   }
 }
 ```
-03   # 영화 모델 만들고 더미 데이터
+## 03  영화 모델 만들고 더미 데이터
 [source](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec03-post/)
 [강의](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37785)
 
@@ -359,7 +359,8 @@ class TopBar extends StatelessWidget {
   }
 }
 ```
-# 04 홈 화면에 이미지 캐로셀 슬라이더
+## 04 홈 화면에 이미지 캐로셀 슬라이더
+https://i.ibb.co/hg0H3ns/Screen-Shot-2020-07-12-at-11-04-34-AM.png
 [source](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec04-post/)
 [강의](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37786)
 ```js
@@ -614,7 +615,7 @@ List<Widget> makeIndicator(List list, int _currentPage) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Mzc4MDQ0NCwtNDIwODM2NDA4LDY1NT
-c1OTEzNCw0NTE0NzE2NjUsLTIwMTY5ODEyMjEsLTU1MTI1NzQ5
-NV19
+eyJoaXN0b3J5IjpbLTE0NjkzOTQ4MjAsLTQyMDgzNjQwOCw2NT
+U3NTkxMzQsNDUxNDcxNjY1LC0yMDE2OTgxMjIxLC01NTEyNTc0
+OTVdfQ==
 -->
