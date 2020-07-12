@@ -360,8 +360,115 @@ class TopBar extends StatelessWidget {
 }
 ```
 # 04 홈 화면에 이미지 캐로셀 슬라이더
+[source](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec04-post/)
+[강의](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37786)
+```js
+# pubspec.yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  carousel_slider:
+```
+```js
+// lib/screen/home_screen.dart
+import 'package:flutter/material.dart';
+import 'package:netflix_clone_lecture_note/model/model_movie.dart';
+import 'package:netflix_clone_lecture_note/widget/carousel_slider.dart';
+
+class HomeScreen extends StatefulWidget {
+  _HomeScreenState createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
+  List<Movie> movies = [
+    Movie.fromMap({
+      'title': '사랑의 불시착',
+      'keyword': '사랑/로맨스/판타지',
+      'poster': 'test_movie_1.png',
+      'like': false
+    }),
+    Movie.fromMap({
+      'title': '사랑의 불시착',
+      'keyword': '사랑/로맨스/판타지',
+      'poster': 'test_movie_1.png',
+      'like': false
+    }),
+    Movie.fromMap({
+      'title': '사랑의 불시착',
+      'keyword': '사랑/로맨스/판타지',
+      'poster': 'test_movie_1.png',
+      'like': false
+    }),
+    Movie.fromMap({
+      'title': '사랑의 불시착',
+      'keyword': '사랑/로맨스/판타지',
+      'poster': 'test_movie_1.png',
+      'like': false
+    }),
+  ];
+  @override
+  void initState() {
+    super.initState();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return ListView(
+      children: <Widget>[
+        Stack(
+          children: <Widget>[
+            CarouselImage(movies: movies),
+            TopBar(),
+          ],
+        )
+      ],
+    );
+  }
+}
+
+class TopBar extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: EdgeInsets.fromLTRB(20, 7, 20, 7),
+      child: Row(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: <Widget>[
+          Image.asset(
+            'images/bbongflix_logo.png',
+            fit: BoxFit.contain,
+            height: 25,
+          ),
+          Container(
+            padding: EdgeInsets.only(right: 1),
+            child: Text(
+              'TV 프로그램',
+              style: TextStyle(fontSize: 14),
+            ),
+          ),
+          Container(
+            padding: EdgeInsets.only(right: 1),
+            child: Text(
+              '영화',
+              style: TextStyle(fontSize: 14),
+            ),
+          ),
+          Container(
+            padding: EdgeInsets.only(right: 1),
+            child: Text(
+              '내가 찜한 콘텐츠',
+              style: TextStyle(fontSize: 14),
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+}
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4NjI5NDQyLC00MjA4MzY0MDgsNjU1Nz
-U5MTM0LDQ1MTQ3MTY2NSwtMjAxNjk4MTIyMSwtNTUxMjU3NDk1
-XX0=
+eyJoaXN0b3J5IjpbMjAxNjk1NzA3NSwtNDIwODM2NDA4LDY1NT
+c1OTEzNCw0NTE0NzE2NjUsLTIwMTY5ODEyMjEsLTU1MTI1NzQ5
+NV19
 -->
