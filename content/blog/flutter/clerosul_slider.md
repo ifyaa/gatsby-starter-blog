@@ -78,8 +78,62 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 
 ```
+
+
+## slider
+![](https://i.ibb.co/KxrW92f/Screen-Shot-2020-07-12-at-4-54-55-PM.png)
+
+```js
+import 'package:flutter/material.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Slider Demo',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: MyHomePage(title: 'Flutter Slider Demo Home Page'),
+    );
+  }
+}
+
+class MyHomePage extends StatefulWidget {
+  MyHomePage({Key key, this.title}) : super(key: key);
+
+  final String title;
+
+  @override
+  _MyHomePageState createState() => _MyHomePageState();
+}
+
+class _MyHomePageState extends State<MyHomePage> {
+  double _value = 0.5;
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(
+          title: Text(widget.title),
+        ),
+        body: Slider(
+          value: _value,
+          onChanged: (double newValue) {
+            setState(() {
+              _value = newValue;
+            });
+          },
+        ));
+  }
+}
+
+
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTgxODcyNywzMTI3NTgwMjAsLTY1OD
-I2MzI3NCwyMDM5NjY3MzcxXX0=
+eyJoaXN0b3J5IjpbMTk5NDE3OTg1NCwtODcxODE4NzI3LDMxMj
+c1ODAyMCwtNjU4MjYzMjc0LDIwMzk2NjczNzFdfQ==
 -->
