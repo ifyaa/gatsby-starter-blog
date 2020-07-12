@@ -253,20 +253,7 @@ class TopBar extends StatelessWidget {
 03   # 영화 모델 만들고 더미 데이터
 [source](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec03-post/)
 [강의](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37785)
-```js
-# pubspec.yaml
-# The following section is specific to Flutter.
-flutter:
-  # The following line ensures that the Material Icons font is
-  # included with your application, so that you can use the icons in
-  # the material Icons class.
-  uses-material-design: true
 
-  # To add assets to your application, add an assets section, like this:
-  assets:
-    - images/bbongflix_logo.png
-    - images/test_movie_1.png
-```
 ```js
 // lib/model/model_movie.dart
 class Movie {
@@ -374,6 +361,7 @@ class TopBar extends StatelessWidget {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDgzNjQwOCw2NTU3NTkxMzQsNDUxND
-cxNjY1LC0yMDE2OTgxMjIxLC01NTEyNTc0OTVdfQ==
+eyJoaXN0b3J5IjpbLTkyOTkzMzM5NywtNDIwODM2NDA4LDY1NT
+c1OTEzNCw0NTE0NzE2NjUsLTIwMTY5ODEyMjEsLTU1MTI1NzQ5
+NV19
 -->
