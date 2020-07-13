@@ -4,7 +4,7 @@ date: "2020-07-13"
 description: flotter 기본동영상.
 ---
 [인스타그램 크론](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37786)
-
+![](https://i.ibb.co/7NnM30q/Screen-Shot-2020-07-13-at-11-28-00-AM.png)
 [기본동영상](https://www.youtube.com/watch?v=uq7e386eG4Y&list=PLybADvIp2cxgYovNF3r16TZjFD-4mcyMD)
 ![](https://i.ibb.co/DzGsjsX/Screen-Shot-2020-07-13-at-10-55-12-AM.png)
 
@@ -17,6 +17,6 @@ description: flotter 기본동영상.
 ![](https://i.ibb.co/rbbLT30/Screen-Shot-2020-07-13-at-11-25-57-AM.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1ODEwODA2LC0xMTM3MTE5NzExLC03OT
+eyJoaXN0b3J5IjpbLTg1MjUyNDkxLC0xMTM3MTE5NzExLC03OT
 k0MDE3NjNdfQ==
 -->
