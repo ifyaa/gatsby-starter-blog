@@ -358,7 +358,8 @@ subtitle: Text(image_caption)에 컨테이너로 스타일 추가
           child: Text(image_caption, style: new TextStyle(fontSize: 12.0),),
         )
 ```
-
+![](https://i.ibb.co/1mXhrPH/Screen-Shot-2020-07-13-at-11-21-06-PM.png)
+![](https://i.ibb.co/s2XT0Sz/Screen-Shot-2020-07-13-at-11-20-53-PM.png)
 ![](https://i.ibb.co/y6LTK8Z/flutter-12.png)
 [강의](https://www.youtube.com/watch?v=vt0u9WFHZ4w&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=13)
 ```js
@@ -560,5 +561,6 @@ date: "2020-07-12"
 description: slider.
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDEyNjg3NDMsLTc1OTczOTIyM119
+eyJoaXN0b3J5IjpbLTExMjczMDEzNzQsLTE3MDEyNjg3NDMsLT
+c1OTczOTIyM119
 -->
