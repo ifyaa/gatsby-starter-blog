@@ -1,7 +1,7 @@
 ------
 title: flutterShoppingMall
 date: 2020-05-08
-description: flotter 쇼핑몰강의
+description: flotter 네플릭스강의 
 ---
 [강의](https://www.youtube.com/watch?v=nPa-53FXebU&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=8)
 
@@ -556,5 +556,5 @@ date: "2020-07-12"
 description: slider.
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODM0MTE5NiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTAxMzkxMzgxMiwtMjA4ODc0NjYxMl19
 -->
