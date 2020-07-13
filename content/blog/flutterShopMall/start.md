@@ -240,7 +240,9 @@ class _HomePageState extends State<HomePage> {
     height: 200.0,
     child: new Carousel(
       boxFit: BoxFit.cover,
-        images: [
+        images: [  
+			Image.network(
+                    'https://cdn-images-1.medium.com/max/2000/1*GqdzzfB_BHorv7V2NV7Jgg.jpeg'),
             AssetImage('images/c1.jpg'),
             AssetImage('images/m1.jpeg'),
             AssetImage('images/w3.jpeg'),
@@ -556,5 +558,5 @@ date: "2020-07-12"
 description: slider.
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMzkxMzgxMl19
+eyJoaXN0b3J5IjpbLTc1OTczOTIyM119
 -->
