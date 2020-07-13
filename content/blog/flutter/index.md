@@ -1,5 +1,5 @@
 ---
-title: flutterMoneyStudy
+title: flutter
 date: "2020-07-06"
 description: flotter 이야기를 합니다.
 ---
@@ -105,9 +105,9 @@ Row, Column:
 atack
 Container
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjgwMjc5LC00MzU0NjIyNTQsNTQxND
-E4NDQ1LC0zODUxMjc5MDIsMjEwMjI1OTcwNSwzNjEzMjczOTks
-OTg3OTE2ODg3LC03ODUzNDQzMzAsLTE1ODkxNTU2NjcsLTEyOT
-g2MTkxODUsLTI3MjY2MzgzNSwxODc1ODA0NTcsLTU1NzQ0MTcz
-OSwtMTkzMTIyMDQ4OF19
+eyJoaXN0b3J5IjpbLTQzNTQ2MjI1NCwtNDM1NDYyMjU0LDU0MT
+QxODQ0NSwtMzg1MTI3OTAyLDIxMDIyNTk3MDUsMzYxMzI3Mzk5
+LDk4NzkxNjg4NywtNzg1MzQ0MzMwLC0xNTg5MTU1NjY3LC0xMj
+k4NjE5MTg1LC0yNzI2NjM4MzUsMTg3NTgwNDU3LC01NTc0NDE3
+MzksLTE5MzEyMjA0ODhdfQ==
 -->
