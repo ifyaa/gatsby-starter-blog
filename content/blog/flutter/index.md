@@ -1,7 +1,7 @@
 ---
 title: flutter
 date: "2020-07-06"
-description: flotter 이야기를 합니다.
+description: flotter 유료강의.
 ---
 
 
@@ -105,7 +105,7 @@ Row, Column:
 atack
 Container
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTQ2MjI1NCwtNDM1NDYyMjU0LDU0MT
+eyJoaXN0b3J5IjpbMTI1NjA5ODA4OCwtNDM1NDYyMjU0LDU0MT
 QxODQ0NSwtMzg1MTI3OTAyLDIxMDIyNTk3MDUsMzYxMzI3Mzk5
 LDk4NzkxNjg4NywtNzg1MzQ0MzMwLC0xNTg5MTU1NjY3LC0xMj
 k4NjE5MTg1LC0yNzI2NjM4MzUsMTg3NTgwNDU3LC01NTc0NDE3
