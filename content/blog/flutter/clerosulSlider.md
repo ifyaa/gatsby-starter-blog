@@ -130,13 +130,12 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 ```
-[이미지슬라이드](http://camellabs.com/flutter-image-slider-example/)
-![](https://i.ibb.co/ZfY7mSY/Screen-Shot-2020-07-13-at-3-02-42-PM.png)
 
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzIzNDQ4MSwtMTkwNzQwMDU1M119
+eyJoaXN0b3J5IjpbMzk0ODQxNDEyLC00ODMyMzQ0ODEsLTE5MD
+c0MDA1NTNdfQ==
 -->
