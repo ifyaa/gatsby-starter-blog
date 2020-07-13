@@ -1,7 +1,7 @@
 ---
 title: flutter 
 date: "2020-07-13"
-description: flotter 기본동영상.
+description: flotter 강의모음.
 ---
 [강의](https://www.youtube.com/watch?v=32RI0qUnTzQ&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=11)
 ![](https://i.ibb.co/jJ9vkTD/flutter-11.png)
@@ -20,5 +20,5 @@ description: flotter 기본동영상.
 ![](https://i.ibb.co/rbbLT30/Screen-Shot-2020-07-13-at-11-25-57-AM.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzAyNjI5NywxMTgxMzIzNjUzXX0=
+eyJoaXN0b3J5IjpbLTEwODEyNjM0MjcsMTE4MTMyMzY1M119
 -->
