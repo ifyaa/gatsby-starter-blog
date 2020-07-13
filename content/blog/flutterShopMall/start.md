@@ -326,12 +326,12 @@ class HorezontalList extends StatelessWidget {
 
 class Category extends StatelessWidget {
 
-|  final String image_location; | 
-|  final String image_caption; |
+|  final String image_location; | 이것만 공부하면 될것같은데....
+|  final String image_caption;  |
 
   Category({
- |    this.image_location,
- |    this.image_caption,
+ |    this.image_location,| 
+ |    this.image_caption, | 
   });
 
  
@@ -560,5 +560,5 @@ date: "2020-07-12"
 description: slider.
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5MjExMTAxLC03NTk3MzkyMjNdfQ==
+eyJoaXN0b3J5IjpbLTE3MDEyNjg3NDMsLTc1OTczOTIyM119
 -->
