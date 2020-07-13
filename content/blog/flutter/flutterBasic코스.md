@@ -12,8 +12,8 @@ description: flotter 기본동영상.
 
 
 
-
+[flutter world](https://www.youtube.com/watch?v=GDWl6_RW9co&list=PUxJInPa5SMldFHfJreSJ73Q)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNDgwMzQxLC03OTk0MDE3NjNdfQ==
+eyJoaXN0b3J5IjpbLTExMzcxMTk3MTEsLTc5OTQwMTc2M119
 -->
