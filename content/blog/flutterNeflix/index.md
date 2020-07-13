@@ -1,5 +1,5 @@
 ---
-title: neflix
+title: flutterNeflix
 date: "2020-07-11"
 description: "netflix"
 ---
@@ -615,5 +615,5 @@ List<Widget> makeIndicator(List list, int _currentPage) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDE2MjM1NzJdfQ==
+eyJoaXN0b3J5IjpbMTcwNDkxNDk1OF19
 -->
