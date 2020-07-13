@@ -8,8 +8,8 @@ description: flotter 기본동영상.
 ![](https://i.ibb.co/DzGsjsX/Screen-Shot-2020-07-13-at-10-55-12-AM.png)
 
 [기본 강의 사이트](https://fkkmemi.github.io/ff/ff-001/)
-!
+![](![Screen-Shot-2020-07-13-at-10-57-11-AM](https://i.ibb.co/s3NHhs5/Screen-Shot-2020-07-13-at-10-57-11-AM.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTc4NDY4M119
+eyJoaXN0b3J5IjpbMjcwODkwMTVdfQ==
 -->
