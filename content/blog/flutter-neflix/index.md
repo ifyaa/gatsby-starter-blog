@@ -1,5 +1,5 @@
 ---
-title: fluttter_net
+title: fluttter_neflix
 date: "2020-07-11"
 description: "netflix"
 ---
@@ -615,7 +615,7 @@ List<Widget> makeIndicator(List list, int _currentPage) {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDM2Njg2NCwtNDIwODM2NDA4LDY1NT
-c1OTEzNCw0NTE0NzE2NjUsLTIwMTY5ODEyMjEsLTU1MTI1NzQ5
-NV19
+eyJoaXN0b3J5IjpbLTEwMDY3NTEwNzMsLTk4MDM2Njg2NCwtND
+IwODM2NDA4LDY1NTc1OTEzNCw0NTE0NzE2NjUsLTIwMTY5ODEy
+MjEsLTU1MTI1NzQ5NV19
 -->
