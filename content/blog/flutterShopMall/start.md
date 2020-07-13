@@ -350,6 +350,7 @@ class Category extends StatelessWidget {
   }
 }
 ```
+subtitle: Text(image_caption)에 컨테이너로 
 ```js
      subtitle: Container(
           alignment: Alignment.topCenter,
@@ -558,5 +559,5 @@ date: "2020-07-12"
 description: slider.
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTczOTIyM119
+eyJoaXN0b3J5IjpbMTgwOTY0MTU3MSwtNzU5NzM5MjIzXX0=
 -->
