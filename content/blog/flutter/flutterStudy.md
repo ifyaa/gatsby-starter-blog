@@ -1,8 +1,8 @@
 ---
 title: flutter
 date: "2020-07-12"
-description: clerosul slider.
+description: clerder.
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4MjM0MDM4LDExODEzMjM2NTNdfQ==
+eyJoaXN0b3J5IjpbNzU0NTIwODExLDExODEzMjM2NTNdfQ==
 -->
