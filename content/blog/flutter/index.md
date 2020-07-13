@@ -5,7 +5,7 @@ description: flotter 이야기를 합니다.
 ---
 
 
-**[강의동영상](https://www.youtube.com/watch?v=LzG-vkmpDIc)(https://www.youtube.com/watch?v=LzG-vkmpDIc)
+**[유료강의](https://www.youtube.com/watch?v=LzG-vkmpDIc)(https://www.youtube.com/watch?v=LzG-vkmpDIc)
 
 [source](https://github.com/dickyrey/instagramclone)
 
@@ -105,8 +105,9 @@ Row, Column:
 atack
 Container
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxNDE4NDQ1LC0zODUxMjc5MDIsMjEwMj
-I1OTcwNSwzNjEzMjczOTksOTg3OTE2ODg3LC03ODUzNDQzMzAs
-LTE1ODkxNTU2NjcsLTEyOTg2MTkxODUsLTI3MjY2MzgzNSwxOD
-c1ODA0NTcsLTU1NzQ0MTczOSwtMTkzMTIyMDQ4OF19
+eyJoaXN0b3J5IjpbLTQzNTQ2MjI1NCw1NDE0MTg0NDUsLTM4NT
+EyNzkwMiwyMTAyMjU5NzA1LDM2MTMyNzM5OSw5ODc5MTY4ODcs
+LTc4NTM0NDMzMCwtMTU4OTE1NTY2NywtMTI5ODYxOTE4NSwtMj
+cyNjYzODM1LDE4NzU4MDQ1NywtNTU3NDQxNzM5LC0xOTMxMjIw
+NDg4XX0=
 -->
