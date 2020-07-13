@@ -1,7 +1,7 @@
 ------
-title: flfNeflix
+title: flutterShoppingMall
 date: "2020-07-11"
-description: "netflix"
+description: 쇼핑몰강의
 ---
 ## 01 bottom Menu
 [강의](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec01-post/)
@@ -619,6 +619,6 @@ date: "2020-07-12"
 published: true
 --
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTg4MzQwMSwtMjA4ODc0NjYxMiwxNj
-MzNjUxNzk5XX0=
+eyJoaXN0b3J5IjpbNjI1ODQ3ODUsLTIwODg3NDY2MTIsMTYzMz
+Y1MTc5OV19
 -->
