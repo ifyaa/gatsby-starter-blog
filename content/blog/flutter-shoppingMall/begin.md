@@ -1,5 +1,5 @@
 ---
-title: flutter-shoppingMall
+title: shoppingMall
 date: 2020-05-08
 published: true
 ---
@@ -552,5 +552,5 @@ class _ProductDetailState extends State<ProductDetail>{
 ![](https://i.ibb.co/fYvSjzr/flutter-005.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1ODU0NDcyLC0xMjkwODA5MDY5XX0=
+eyJoaXN0b3J5IjpbNjQ4NDQzODMzLC0xMjkwODA5MDY5XX0=
 -->
