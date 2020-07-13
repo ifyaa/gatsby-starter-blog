@@ -338,10 +338,10 @@ class Category extends StatelessWidget {
   Widget build(BuildContext context) {
     return Padding(padding: const EdgeInsets.all(2.0),
     child: InkWell(onTap: (){},
-    child: Container(
+    child: Container(  넓이를 잡지 않으면 에러가 난다
       width: 100.0,
         child: ListTile(
-        title: Image.asset(image_location, width: 100.0, height: 80.0,),
+        title: Image.asset(image_location, width: 100.0, height: 80.0,), 이 넓이도 잡아야 하고
         subtitle: Text(image_caption),
           ),
     )
@@ -350,7 +350,7 @@ class Category extends StatelessWidget {
   }
 }
 ```
-subtitle: Text(image_caption)에 컨테이너로 
+subtitle: Text(image_caption)에 컨테이너로 스타일 추가
 ```js
      subtitle: Container(
           alignment: Alignment.topCenter,
@@ -559,5 +559,5 @@ date: "2020-07-12"
 description: slider.
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTY0MTU3MSwtNzU5NzM5MjIzXX0=
+eyJoaXN0b3J5IjpbLTEzNTY1MDc4ODcsLTc1OTczOTIyM119
 -->
