@@ -590,9 +590,9 @@ class _ProductDetailState extends State<ProductDetail>{
 
 [8.47/19:32](https://www.youtube.com/watch?v=nUPF8mXdn7M&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=17)
 > Written with [StackEdit](https://stackedit.io/).
-
+![](https://i.ibb.co/VwZTGrQ/Screen-Shot-2020-07-15-at-12-10-04-AM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4ODQ1MDcyLDI1NDIyNTY4NCw0ODc4NT
-k0NjMsLTg4ODk2NTAzNSwxOTkyNTg5MTkyLC0xMTI3MzAxMzc0
-LC0xNzAxMjY4NzQzLC03NTk3MzkyMjNdfQ==
+eyJoaXN0b3J5IjpbOTgzMTMwMDAsMjU0MjI1Njg0LDQ4Nzg1OT
+Q2MywtODg4OTY1MDM1LDE5OTI1ODkxOTIsLTExMjczMDEzNzQs
+LTE3MDEyNjg3NDMsLTc1OTczOTIyM119
 -->
