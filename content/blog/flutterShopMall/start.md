@@ -472,8 +472,27 @@ class Single_prod extends StatelessWidget {
 
 ```
 ![](https://i.ibb.co/2jBghGV/Screen-Shot-2020-07-14-at-4-51-03-PM.png)
+```js
+
+                            style: TextStyle(fontWeight: FontWeight.bold),
+                          ),
+                          title: Text(
+                            "\$$prod_price",
+                            style: TextStyle(
+                                color: Colors.red, fontWeight: FontWeight.w800),
+                          ),
+                          subtitle: Text(
+                            "\$$prod_old_price",
+                            style: TextStyle(
+                                color: Colors.black54,
+                                fontWeight: FontWeight.w800,
+                                decoration: TextDecoration.lineThrough),
+                          )),
+                    ),
+```
 
 ![](https://i.ibb.co/bFcF7y5/flutter-13.png)
+
 [here](https://www.youtube.com/watch?v=zZdbCSDlhx8&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=15)
 라우터
 ![](https://i.ibb.co/Tmz6Mcw/flutter-14.png)
@@ -562,6 +581,6 @@ date: "2020-07-12"
 description: slider.
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU2NDc4OTYsMTk5MjU4OTE5MiwtMT
-EyNzMwMTM3NCwtMTcwMTI2ODc0MywtNzU5NzM5MjIzXX0=
+eyJoaXN0b3J5IjpbLTM2OTAzOTQwNCwxOTkyNTg5MTkyLC0xMT
+I3MzAxMzc0LC0xNzAxMjY4NzQzLC03NTk3MzkyMjNdfQ==
 -->
