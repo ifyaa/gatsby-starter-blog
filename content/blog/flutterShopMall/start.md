@@ -502,6 +502,13 @@ class Single_prod extends StatelessWidget {
 라우터
 ![](https://i.ibb.co/kQTpCK0/Screen-Shot-2020-07-14-at-5-21-33-PM.png)
 ![](https://i.ibb.co/T4qBk7h/Screen-Shot-2020-07-14-at-5-20-34-PM.png)
+```js
+child:  InkWell(
+
+onTap: () =>  Navigator.of(context).push(new  MaterialPageRoute(
+
+builder: (context) =>  new  ProductDetails())),
+```
 ![](https://i.ibb.co/Tmz6Mcw/flutter-14.png)
 
 ##페이지 전환
@@ -585,7 +592,7 @@ class _ProductDetailState extends State<ProductDetail>{
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjUwNjA3Niw0ODc4NTk0NjMsLTg4OD
+eyJoaXN0b3J5IjpbLTI5OTg5NzI0MCw0ODc4NTk0NjMsLTg4OD
 k2NTAzNSwxOTkyNTg5MTkyLC0xMTI3MzAxMzc0LC0xNzAxMjY4
 NzQzLC03NTk3MzkyMjNdfQ==
 -->
