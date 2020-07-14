@@ -581,11 +581,9 @@ class _ProductDetailState extends State<ProductDetail>{
 ![](https://i.ibb.co/1n4BRdp/flutter-004.png)
 ![](https://i.ibb.co/fYvSjzr/flutter-005.png)
 > Written with [StackEdit](https://stackedit.io/).
-title: flutter
-date: "2020-07-12"
-description: slider.
----
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODk2NTAzNSwxOTkyNTg5MTkyLC0xMT
-I3MzAxMzc0LC0xNzAxMjY4NzQzLC03NTk3MzkyMjNdfQ==
+eyJoaXN0b3J5IjpbNDg3ODU5NDYzLC04ODg5NjUwMzUsMTk5Mj
+U4OTE5MiwtMTEyNzMwMTM3NCwtMTcwMTI2ODc0MywtNzU5NzM5
+MjIzXX0=
 -->
