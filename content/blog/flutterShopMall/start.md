@@ -473,7 +473,12 @@ class Single_prod extends StatelessWidget {
 ```
 ![](https://i.ibb.co/2jBghGV/Screen-Shot-2020-07-14-at-4-51-03-PM.png)
 ```js
-
+ child: GridTile(
+                    footer: Container(
+                      color: Colors.white70,
+                      child: ListTile(
+                          leading: Text(
+                            prod_name,
                             style: TextStyle(fontWeight: FontWeight.bold),
                           ),
                           title: Text(
@@ -581,6 +586,6 @@ date: "2020-07-12"
 description: slider.
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTAzOTQwNCwxOTkyNTg5MTkyLC0xMT
+eyJoaXN0b3J5IjpbLTg4ODk2NTAzNSwxOTkyNTg5MTkyLC0xMT
 I3MzAxMzc0LC0xNzAxMjY4NzQzLC03NTk3MzkyMjNdfQ==
 -->
