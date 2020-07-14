@@ -587,10 +587,12 @@ class _ProductDetailState extends State<ProductDetail>{
 ![](https://i.ibb.co/6ZM4FNM/flutter-003.png)
 ![](https://i.ibb.co/1n4BRdp/flutter-004.png)
 ![](https://i.ibb.co/fYvSjzr/flutter-005.png)
+
+[8.47/19:32](https://www.youtube.com/watch?v=nUPF8mXdn7M&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=17)
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MjI1Njg0LDQ4Nzg1OTQ2MywtODg4OT
-Y1MDM1LDE5OTI1ODkxOTIsLTExMjczMDEzNzQsLTE3MDEyNjg3
-NDMsLTc1OTczOTIyM119
+eyJoaXN0b3J5IjpbMzU4ODQ1MDcyLDI1NDIyNTY4NCw0ODc4NT
+k0NjMsLTg4ODk2NTAzNSwxOTkyNTg5MTkyLC0xMTI3MzAxMzc0
+LC0xNzAxMjY4NzQzLC03NTk3MzkyMjNdfQ==
 -->
