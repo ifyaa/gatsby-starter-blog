@@ -1,7 +1,7 @@
 ------
 title: flutterShoppingMall
 date: "2020-07-11"
-description: 쇼핑몰강의
+description: 네플릭스강의
 ---
 ## 01 bottom Menu
 [강의](https://taebbong.github.io/2020/03/21/2020-03-21-bbongflix-lec01-post/)
@@ -615,5 +615,5 @@ List<Widget> makeIndicator(List list, int _currentPage) {
 }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQwMjkzMTddfQ==
+eyJoaXN0b3J5IjpbLTU3MTExNDU5OSwtMTE2NDAyOTMxN119
 -->
