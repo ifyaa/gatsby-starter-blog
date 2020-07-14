@@ -589,10 +589,11 @@ class _ProductDetailState extends State<ProductDetail>{
 ![](https://i.ibb.co/fYvSjzr/flutter-005.png)
 
 [8.47/19:32](https://www.youtube.com/watch?v=nUPF8mXdn7M&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=17)
+[source](https://github.com/Santos-Enoque/complete_flutter_ecommerce/blob/master/lib/screens/product_details.dart)
 > Written with [StackEdit](https://stackedit.io/).
 ![](https://i.ibb.co/VwZTGrQ/Screen-Shot-2020-07-15-at-12-10-04-AM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMTMwMDAsMjU0MjI1Njg0LDQ4Nzg1OT
-Q2MywtODg4OTY1MDM1LDE5OTI1ODkxOTIsLTExMjczMDEzNzQs
-LTE3MDEyNjg3NDMsLTc1OTczOTIyM119
+eyJoaXN0b3J5IjpbLTQ3NTEzNTUwOSw5ODMxMzAwMCwyNTQyMj
+U2ODQsNDg3ODU5NDYzLC04ODg5NjUwMzUsMTk5MjU4OTE5Miwt
+MTEyNzMwMTM3NCwtMTcwMTI2ODc0MywtNzU5NzM5MjIzXX0=
 -->
