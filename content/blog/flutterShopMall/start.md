@@ -504,10 +504,8 @@ class Single_prod extends StatelessWidget {
 ![](https://i.ibb.co/T4qBk7h/Screen-Shot-2020-07-14-at-5-20-34-PM.png)
 ```js
 child:  InkWell(
-
-onTap: () =>  Navigator.of(context).push(new  MaterialPageRoute(
-
-builder: (context) =>  new  ProductDetails())),
+		onTap: () =>  Navigator.of(context).push(new  MaterialPageRoute(
+				builder: (context) =>  new  ProductDetails())),
 ```
 ![](https://i.ibb.co/Tmz6Mcw/flutter-14.png)
 
@@ -592,7 +590,7 @@ class _ProductDetailState extends State<ProductDetail>{
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTg5NzI0MCw0ODc4NTk0NjMsLTg4OD
-k2NTAzNSwxOTkyNTg5MTkyLC0xMTI3MzAxMzc0LC0xNzAxMjY4
-NzQzLC03NTk3MzkyMjNdfQ==
+eyJoaXN0b3J5IjpbMjU0MjI1Njg0LDQ4Nzg1OTQ2MywtODg4OT
+Y1MDM1LDE5OTI1ODkxOTIsLTExMjczMDEzNzQsLTE3MDEyNjg3
+NDMsLTc1OTczOTIyM119
 -->
