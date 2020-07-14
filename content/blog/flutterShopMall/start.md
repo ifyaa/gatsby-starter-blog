@@ -500,6 +500,8 @@ class Single_prod extends StatelessWidget {
 
 [here](https://www.youtube.com/watch?v=zZdbCSDlhx8&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=15)
 라우터
+![](https://i.ibb.co/kQTpCK0/Screen-Shot-2020-07-14-at-5-21-33-PM.png)
+![](https://i.ibb.co/T4qBk7h/Screen-Shot-2020-07-14-at-5-20-34-PM.png)
 ![](https://i.ibb.co/Tmz6Mcw/flutter-14.png)
 
 ##페이지 전환
@@ -583,7 +585,7 @@ class _ProductDetailState extends State<ProductDetail>{
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3ODU5NDYzLC04ODg5NjUwMzUsMTk5Mj
-U4OTE5MiwtMTEyNzMwMTM3NCwtMTcwMTI2ODc0MywtNzU5NzM5
-MjIzXX0=
+eyJoaXN0b3J5IjpbMTk4MjUwNjA3Niw0ODc4NTk0NjMsLTg4OD
+k2NTAzNSwxOTkyNTg5MTkyLC0xMTI3MzAxMzc0LC0xNzAxMjY4
+NzQzLC03NTk3MzkyMjNdfQ==
 -->
