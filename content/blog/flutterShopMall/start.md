@@ -585,6 +585,8 @@ class _ProductDetailState extends State<ProductDetail>{
 ```
 ![](https://i.ibb.co/qp2hbTb/flutter-006.png)
 ![](https://i.ibb.co/6ZM4FNM/flutter-003.png)
+
+여기서 다른 페이지도 이동
 ![](https://i.ibb.co/1n4BRdp/flutter-004.png)
 ![](https://i.ibb.co/fYvSjzr/flutter-005.png)
 
@@ -593,7 +595,8 @@ class _ProductDetailState extends State<ProductDetail>{
 > Written with [StackEdit](https://stackedit.io/).
 ![](https://i.ibb.co/VwZTGrQ/Screen-Shot-2020-07-15-at-12-10-04-AM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTEzNTUwOSw5ODMxMzAwMCwyNTQyMj
-U2ODQsNDg3ODU5NDYzLC04ODg5NjUwMzUsMTk5MjU4OTE5Miwt
-MTEyNzMwMTM3NCwtMTcwMTI2ODc0MywtNzU5NzM5MjIzXX0=
+eyJoaXN0b3J5IjpbLTY5ODM4MzQ0MCwtNDc1MTM1NTA5LDk4Mz
+EzMDAwLDI1NDIyNTY4NCw0ODc4NTk0NjMsLTg4ODk2NTAzNSwx
+OTkyNTg5MTkyLC0xMTI3MzAxMzc0LC0xNzAxMjY4NzQzLC03NT
+k3MzkyMjNdfQ==
 -->
