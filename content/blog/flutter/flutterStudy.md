@@ -21,9 +21,13 @@ description: flotter 강의모음.
 [graphql](https://countries.trevorblades.com/)
 ![](https://mblogthumb-phinf.pstatic.net/MjAxOTEwMzBfMzcg/MDAxNTcyMzYxNDY5Njk0.rEOgcqKNxxBwlIvOWifzFKV1nlqPKd3g1mnOa2VQYFog.hr9yypFSUMkqslwsRWkItyuovfPL82bdH8W0XIbr3gAg.PNG.ljk041180/flutter_graphql.png?type=w800 )
 
+[# Widget of the Week](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
+![](https://i.ibb.co/NpHd5RY/Screen-Shot-2020-07-16-at-12-37-28-AM.png)
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4MzIxMzYwLDIxMzcwODk1NjYsLTE0MD
-kyNDA3MiwtMTA4MTI2MzQyNywxMTgxMzIzNjUzXX0=
+eyJoaXN0b3J5IjpbMTEzNTE0MjA5OSwzMTgzMjEzNjAsMjEzNz
+A4OTU2NiwtMTQwOTI0MDcyLC0xMDgxMjYzNDI3LDExODEzMjM2
+NTNdfQ==
 -->
