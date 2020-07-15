@@ -80,8 +80,186 @@ class MyApp extends StatelessWidget {
 
 출처: https://pythonkim.tistory.com/115 [파이쿵]
 ```
+
+[flutter world](https://www.youtube.com/watch?v=GDWl6_RW9co&list=PUxJInPa5SMldFHfJreSJ73Q)
+![](https://i.ibb.co/rbbLT30/Screen-Shot-2020-07-13-at-11-25-57-AM.png)
+```js
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: "alert Dialog Example",
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: MyHomePage(),
+    );
+  }
+}
+
+class MyHomePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+        appBar: AppBar(
+          title: Text("Alert Dialog"),
+          centerTitle: true,
+        ),
+        body: Column(
+          children: <Widget>[
+            RaisedButton(
+              child: Text("Simple Dialog!!"),
+              onPressed: () {
+                showDialog(
+                    context: context,
+                    builder: (context) {
+                      return AlertDialog(
+                        title: Text("hello Everyone"),
+                        content: Text("This is a body from Alert Dilog"),
+                        actions: <Widget>[
+                          FlatButton(
+                            child: Text("yes"),
+                            onPressed: () {},
+                          ),
+                          FlatButton(
+                            child: Text("no"),
+                            onPressed: () {},
+                          )
+                        ],
+                      );
+                    });
+              },
+            ),
+            RaisedButton(
+              child: Text("Custom Dialog"),
+              onPressed: () {
+                showDialog(
+                    context: context,
+                    builder: (context) {
+                      return Dialog(
+                          shape: RoundedRectangleBorder(
+                            borderRadius: BorderRadius.circular(20.0),
+                          ),
+                          child: Container(
+                              height: 200,
+                              child: Padding(
+                                  padding: EdgeInsets.all(12.0),
+                                  child: Column(
+                                      crossAxisAlignment:
+                                          CrossAxisAlignment.start,
+                                      mainAxisAlignment:
+                                          MainAxisAlignment.center,
+                                      children: <Widget>[
+                                        TextField(
+                                          decoration: InputDecoration(
+                                              border: InputBorder.none,
+                                              hintText:
+                                                  "What do you wang from Byneet Dev?"),
+                                        ),
+                                        SizedBox(
+                                            width: 320,
+                                            child: RaisedButton(
+                                                color: Colors.red[50],
+                                                onPressed: () {},
+                                                child: Text("confirm",
+                                                    style: TextStyle(
+                                                      color: Colors.black45,
+                                                    ))))
+                                      ]))));
+                    });
+              },
+            ),
+            RaisedButton(
+              child: Text("Click Here"),
+              onPressed: () {
+                showDialog(
+                    context: context,
+                    builder: (context) => CustomDialog(
+                        title: "Success",
+                        description:
+                            "Lorem50 우리는 민족중흥의 역사적 사명을 띄고 이땅에 태어났다 안으로 민족중흥에 이바지 하고 밖으로 인류공영에 이바지 하여야 한다 "));
+              },
+            )
+          ],
+        ));
+  }
+}
+
+class CustomDialog extends StatelessWidget {
+  final String title, description, buttonText;
+  final Image image;
+
+  CustomDialog({this.title, this.description, this.buttonText, this.image});
+  @override
+  Widget build(BuildContext context) {
+    return Dialog(
+      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+      elevation: 0,
+      backgroundColor: Colors.transparent,
+      child: dialogContent(context),
+    );
+  }
+
+  dialogContent(BuildContext context) {
+    return Stack(
+      children: <Widget>[
+        Container(
+            padding: EdgeInsets.only(top: 100, bottom: 16, left: 16, right: 16),
+            margin: EdgeInsets.only(top: 16),
+            decoration: BoxDecoration(
+                color: Colors.white,
+                shape: BoxShape.rectangle,
+                borderRadius: BorderRadius.circular(17),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black26,
+                    blurRadius: 10.0,
+                    offset: Offset(0.0, 10.0),
+                  )
+                ]),
+            child: Column(mainAxisSize: MainAxisSize.min, children: <Widget>[
+              Text(
+                title,
+                style: TextStyle(
+                  fontSize: 24.0,
+                  fontWeight: FontWeight.w700,
+                ),
+              ),
+              SizedBox(height: 16.0),
+              Text(description, style: TextStyle(fontSize: 16.0)),
+              SizedBox(height: 24.0),
+              Align(
+                  alignment: Alignment.bottomRight,
+                  child: FlatButton(
+                    onPressed: () {
+                      Navigator.pop(context);
+                    },
+                    child: Text("Confirm"),
+                  ))
+            ])),
+        Positioned(
+            top: 0,
+            left: 16,
+            right: 16,
+            child: CircleAvatar(
+              backgroundColor: Colors.blueAccent,
+              radius: 50,
+              backgroundImage: AssetImage('images/cats/test.png'),
+            ))
+      ],
+    );
+  }
+}
+
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU3MDYzNDQsLTE0NTAwNjMwODNdfQ
-==
+eyJoaXN0b3J5IjpbLTE5Mzg2NTg2MTMsLTE1NDU3MDYzNDQsLT
+E0NTAwNjMwODNdfQ==
 -->
