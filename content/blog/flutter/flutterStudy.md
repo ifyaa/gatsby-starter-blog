@@ -16,13 +16,12 @@ description: flotter 강의모음.
 
 
 
-[flutter world](https://www.youtube.com/watch?v=GDWl6_RW9co&list=PUxJInPa5SMldFHfJreSJ73Q)
-![](https://i.ibb.co/rbbLT30/Screen-Shot-2020-07-13-at-11-25-57-AM.png)
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NTk5NzUxLC0xMDgxMjYzNDI3LDExOD
-EzMjM2NTNdfQ==
+eyJoaXN0b3J5IjpbLTE0MDkyNDA3MiwtMTA4MTI2MzQyNywxMT
+gxMzIzNjUzXX0=
 -->
