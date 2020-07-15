@@ -3,7 +3,7 @@ title: flutter
 date: "2020-07-15"
 	description: flotter 버튼모음.
 ---
-[buttons](https://pythonkim.tistory.com/115)
+[buttons](https://pythonkim.tistory.com/115)[그리고 그외 참고할 것드](https://pythonkim.tistory.com/category/%ED%94%8C%EB%9F%AC%ED%84%B0)
 
 가장 많이 사용하는 [RaisedButton](https://docs.flutter.io/flutter/material/RaisedButton/RaisedButton.html), 버튼 눌림 기능이 없는 [FlatButton](https://docs.flutter.io/flutter/material/FlatButton/FlatButton.html),  
 상단 제목의 왼쪽이나 오른쪽에 주로 들어가는 [IconButton](https://docs.flutter.io/flutter/material/IconButton/IconButton.html)(프린터),  
@@ -81,5 +81,6 @@ class MyApp extends StatelessWidget {
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAwNjMwODNdfQ==
+eyJoaXN0b3J5IjpbLTExNzM1MzM5MTEsLTE0NTAwNjMwODNdfQ
+==
 -->
