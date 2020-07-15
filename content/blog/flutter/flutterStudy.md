@@ -17,11 +17,12 @@ description: flotter 강의모음.
 
 
 [flutter-graphql 영화앱](https://m.blog.naver.com/ljk041180/221692569263)
+[동영상](https://www.youtube.com/watch?v=f6jdoEtZt_o)
 ![](https://mblogthumb-phinf.pstatic.net/MjAxOTEwMzBfMzcg/MDAxNTcyMzYxNDY5Njk0.rEOgcqKNxxBwlIvOWifzFKV1nlqPKd3g1mnOa2VQYFog.hr9yypFSUMkqslwsRWkItyuovfPL82bdH8W0XIbr3gAg.PNG.ljk041180/flutter_graphql.png?type=w800 )
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5ODIxMTQ2LC0xNDA5MjQwNzIsLTEwOD
-EyNjM0MjcsMTE4MTMyMzY1M119
+eyJoaXN0b3J5IjpbMjEzNzA4OTU2NiwtMTQwOTI0MDcyLC0xMD
+gxMjYzNDI3LDExODEzMjM2NTNdfQ==
 -->
