@@ -16,12 +16,12 @@ description: flotter 강의모음.
 
 
 
-
-
+[flutter-graphql 영화앱](https://m.blog.naver.com/ljk041180/221692569263)
+![](https://mblogthumb-phinf.pstatic.net/MjAxOTEwMzBfMzcg/MDAxNTcyMzYxNDY5Njk0.rEOgcqKNxxBwlIvOWifzFKV1nlqPKd3g1mnOa2VQYFog.hr9yypFSUMkqslwsRWkItyuovfPL82bdH8W0XIbr3gAg.PNG.ljk041180/flutter_graphql.png?type=w800 = 300x300)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDkyNDA3MiwtMTA4MTI2MzQyNywxMT
-gxMzIzNjUzXX0=
+eyJoaXN0b3J5IjpbNDI4MDQzNDU5LC0xNDA5MjQwNzIsLTEwOD
+EyNjM0MjcsMTE4MTMyMzY1M119
 -->
