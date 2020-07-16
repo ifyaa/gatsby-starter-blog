@@ -3,7 +3,7 @@ title: flutter
 date: "2020-07-13"
 description: flotter 강의모음.
 ---
-[강의](https://www.youtube.com/watch?v=32RI0qUnTzQ&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=11)
+[강의 홈쇼핑](https://www.youtube.com/watch?v=32RI0qUnTzQ&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=11)
 ![](https://i.ibb.co/jJ9vkTD/flutter-11.png)
 
 [인스타그램 크론](https://www.inflearn.com/course/flutter-netflix-clone-app/lecture/37786)
@@ -27,7 +27,7 @@ description: flotter 강의모음.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTE0MjA5OSwzMTgzMjEzNjAsMjEzNz
-A4OTU2NiwtMTQwOTI0MDcyLC0xMDgxMjYzNDI3LDExODEzMjM2
-NTNdfQ==
+eyJoaXN0b3J5IjpbMzYwMjM4MjI0LDExMzUxNDIwOTksMzE4Mz
+IxMzYwLDIxMzcwODk1NjYsLTE0MDkyNDA3MiwtMTA4MTI2MzQy
+NywxMTgxMzIzNjUzXX0=
 -->
