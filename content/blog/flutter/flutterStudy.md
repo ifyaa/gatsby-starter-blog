@@ -11,7 +11,7 @@ description: flotter 강의모음.
 [기본동영상](https://www.youtube.com/watch?v=uq7e386eG4Y&list=PLybADvIp2cxgYovNF3r16TZjFD-4mcyMD)
 ![](https://i.ibb.co/DzGsjsX/Screen-Shot-2020-07-13-at-10-55-12-AM.png)
 
-[기본 강의 사이트](https://fkkmemi.github.io/ff/ff-001/)
+[google Login](https://fkkmemi.github.io/ff/ff-001/)
 ![](https://i.ibb.co/mDR6ZfN/Screen-Shot-2020-07-13-at-11-00-01-AM.png )
 
 
@@ -27,7 +27,7 @@ description: flotter 강의모음.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMjM4MjI0LDExMzUxNDIwOTksMzE4Mz
-IxMzYwLDIxMzcwODk1NjYsLTE0MDkyNDA3MiwtMTA4MTI2MzQy
-NywxMTgxMzIzNjUzXX0=
+eyJoaXN0b3J5IjpbLTY0ODkyMjAzNywzNjAyMzgyMjQsMTEzNT
+E0MjA5OSwzMTgzMjEzNjAsMjEzNzA4OTU2NiwtMTQwOTI0MDcy
+LC0xMDgxMjYzNDI3LDExODEzMjM2NTNdfQ==
 -->
