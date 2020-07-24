@@ -3,6 +3,7 @@ title: flutter
 date: "2020-07-06"
 description: flotter 유료강의.
 ---
+[flutter 참고사이트](https://www.youtube.com/watch?v=W1pNjxmNHNQ&list=PLjxrf2q8roU2HdJQDjJzOeO6J3FoFLWr2&index=2)
 [그리기 동영상](https://www.youtube.com/watch?v=yyHhloFMNNA)
 ![](https://i.ibb.co/RS2F8yW/image.png)
 
@@ -106,9 +107,10 @@ Row, Column:
 atack
 Container
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTM1NzY3MywxMjU2MDk4MDg4LC00Mz
-U0NjIyNTQsNTQxNDE4NDQ1LC0zODUxMjc5MDIsMjEwMjI1OTcw
-NSwzNjEzMjczOTksOTg3OTE2ODg3LC03ODUzNDQzMzAsLTE1OD
-kxNTU2NjcsLTEyOTg2MTkxODUsLTI3MjY2MzgzNSwxODc1ODA0
-NTcsLTU1NzQ0MTczOSwtMTkzMTIyMDQ4OF19
+eyJoaXN0b3J5IjpbMTczMzE1MTEwOCwtNjU5MzU3NjczLDEyNT
+YwOTgwODgsLTQzNTQ2MjI1NCw1NDE0MTg0NDUsLTM4NTEyNzkw
+MiwyMTAyMjU5NzA1LDM2MTMyNzM5OSw5ODc5MTY4ODcsLTc4NT
+M0NDMzMCwtMTU4OTE1NTY2NywtMTI5ODYxOTE4NSwtMjcyNjYz
+ODM1LDE4NzU4MDQ1NywtNTU3NDQxNzM5LC0xOTMxMjIwNDg4XX
+0=
 -->
