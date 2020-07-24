@@ -4,6 +4,7 @@ date: "2020-07-06"
 description: flotter 유료강의.
 ---
 [그리기 동영상](https://www.youtube.com/watch?v=yyHhloFMNNA)
+![](https://i.ibb.co/RS2F8yW/image.png)
 
 **[유료강의](https://www.youtube.com/watch?v=LzG-vkmpDIc)(https://www.youtube.com/watch?v=LzG-vkmpDIc)
 
@@ -105,7 +106,7 @@ Row, Column:
 atack
 Container
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjUxODg5MSwxMjU2MDk4MDg4LC00Mz
+eyJoaXN0b3J5IjpbLTY1OTM1NzY3MywxMjU2MDk4MDg4LC00Mz
 U0NjIyNTQsNTQxNDE4NDQ1LC0zODUxMjc5MDIsMjEwMjI1OTcw
 NSwzNjEzMjczOTksOTg3OTE2ODg3LC03ODUzNDQzMzAsLTE1OD
 kxNTU2NjcsLTEyOTg2MTkxODUsLTI3MjY2MzgzNSwxODc1ODA0
