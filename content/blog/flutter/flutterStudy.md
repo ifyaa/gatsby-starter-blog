@@ -3,6 +3,7 @@ title: flutter
 date: "2020-07-13"
 description: flotter 강의모음.
 ---
+
 [강의 홈쇼핑](https://www.youtube.com/watch?v=32RI0qUnTzQ&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=11)
 ![](https://i.ibb.co/jJ9vkTD/flutter-11.png)
 
@@ -27,7 +28,7 @@ description: flotter 강의모음.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODkyMjAzNywzNjAyMzgyMjQsMTEzNT
+eyJoaXN0b3J5IjpbMTUwMjgzMDQyOSwzNjAyMzgyMjQsMTEzNT
 E0MjA5OSwzMTgzMjEzNjAsMjEzNzA4OTU2NiwtMTQwOTI0MDcy
 LC0xMDgxMjYzNDI3LDExODEzMjM2NTNdfQ==
 -->
