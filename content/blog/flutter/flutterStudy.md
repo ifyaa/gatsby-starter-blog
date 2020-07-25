@@ -4,7 +4,7 @@ date: "2020-07-13"
 description: flotter 강의모음.
 ---
 [# flutter tutorial WebView-상세설명](https://www.youtube.com/watch?v=tCBOBf6S5hQ&list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ&index=41&t=0s)
-![](https://i.ibb.co/RHLRVKL/image.png =500ㅌ)
+![](https://i.ibb.co/RHLRVKL/image.png =500x)
 
 
 [강의 홈쇼핑](https://www.youtube.com/watch?v=32RI0qUnTzQ&list=PLmnT6naTGy2SC82FMSCrvZNogg5T1H7iF&index=11)
@@ -31,7 +31,7 @@ description: flotter 강의모음.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxOTkxNzAwLDM2MDIzODIyNCwxMTM1MT
-QyMDk5LDMxODMyMTM2MCwyMTM3MDg5NTY2LC0xNDA5MjQwNzIs
-LTEwODEyNjM0MjcsMTE4MTMyMzY1M119
+eyJoaXN0b3J5IjpbMTQ3ODM4NTY0MCwzNjAyMzgyMjQsMTEzNT
+E0MjA5OSwzMTgzMjEzNjAsMjEzNzA4OTU2NiwtMTQwOTI0MDcy
+LC0xMDgxMjYzNDI3LDExODEzMjM2NTNdfQ==
 -->
