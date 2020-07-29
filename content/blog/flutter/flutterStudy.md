@@ -1,5 +1,5 @@
 ---
-title: flutter 
+title: flotter 강의모음
 date: "2020-07-13"
 description: flotter 강의모음.
 ---
@@ -33,7 +33,8 @@ description: flotter 강의모음.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzgzODc4NSwxNDc4Mzg1NjQwLDM2MD
-IzODIyNCwxMTM1MTQyMDk5LDMxODMyMTM2MCwyMTM3MDg5NTY2
-LC0xNDA5MjQwNzIsLTEwODEyNjM0MjcsMTE4MTMyMzY1M119
+eyJoaXN0b3J5IjpbLTIxNDE3NzMxMDIsMTQ3ODM4NTY0MCwzNj
+AyMzgyMjQsMTEzNTE0MjA5OSwzMTgzMjEzNjAsMjEzNzA4OTU2
+NiwtMTQwOTI0MDcyLC0xMDgxMjYzNDI3LDExODEzMjM2NTNdfQ
+==
 -->
