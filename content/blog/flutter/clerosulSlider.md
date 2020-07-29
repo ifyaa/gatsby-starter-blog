@@ -1,5 +1,5 @@
 ---
-title: flutter
+title: clerosul slider
 date: "2020-07-12"
 description: clerosul slider.
 ---
@@ -136,6 +136,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0ODQxNDEyLC00ODMyMzQ0ODEsLTE5MD
-c0MDA1NTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NTMzNTk3OTIsMzk0ODQxNDEyLC00OD
+MyMzQ0ODEsLTE5MDc0MDA1NTNdfQ==
 -->
