@@ -1,5 +1,5 @@
 ---
-title: flutter 
+title: flotter 버튼모음
 date: "2020-07-15"
 	description: flotter 버튼모음.
 ---
@@ -261,6 +261,6 @@ class CustomDialog extends StatelessWidget {
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA2ODQ3MjMsLTE1NDU3MDYzNDQsLT
-E0NTAwNjMwODNdfQ==
+eyJoaXN0b3J5IjpbLTMyMzY3NjgyMSwtMTgxMDY4NDcyMywtMT
+U0NTcwNjM0NCwtMTQ1MDA2MzA4M119
 -->
