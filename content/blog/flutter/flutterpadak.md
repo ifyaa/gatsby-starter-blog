@@ -1,5 +1,5 @@
 ---
-title: flutter 
+title: 파닥파닥강의 
 date: "2020-07-29"
 description: 파닥파닥강의 
 ---
@@ -9,5 +9,5 @@ description: 파닥파닥강의
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzU5MDA3OF19
+eyJoaXN0b3J5IjpbMTQ0NzkyNzE3OV19
 -->
