@@ -1,7 +1,7 @@
 ---
 title: flutter 
-date: "2020-07-13"
-description: flotter 강의모음.
+date: "2020-07-29"
+description: 파닥파닥강의 
 ---
 
 ![](https://i.ibb.co/vBNxPbC/image.png =300x)
@@ -9,5 +9,5 @@ description: flotter 강의모음.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTIyODM3XX0=
+eyJoaXN0b3J5IjpbMTA4NzU5MDA3OF19
 -->
