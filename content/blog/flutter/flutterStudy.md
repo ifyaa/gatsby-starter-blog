@@ -3,6 +3,8 @@ title: flutter
 date: "2020-07-13"
 description: flotter 강의모음.
 ---
+
+[Material Components widgets 종류들](https://flutter.dev/docs/development/ui/widgets/material)
 [# flutter tutorial WebView-상세설명](https://www.youtube.com/watch?v=tCBOBf6S5hQ&list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ&index=41&t=0s)
 ![](https://i.ibb.co/RHLRVKL/image.png =500x)
 
@@ -31,7 +33,7 @@ description: flotter 강의모음.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODM4NTY0MCwzNjAyMzgyMjQsMTEzNT
-E0MjA5OSwzMTgzMjEzNjAsMjEzNzA4OTU2NiwtMTQwOTI0MDcy
-LC0xMDgxMjYzNDI3LDExODEzMjM2NTNdfQ==
+eyJoaXN0b3J5IjpbLTg1NzgzODc4NSwxNDc4Mzg1NjQwLDM2MD
+IzODIyNCwxMTM1MTQyMDk5LDMxODMyMTM2MCwyMTM3MDg5NTY2
+LC0xNDA5MjQwNzIsLTEwODEyNjM0MjcsMTE4MTMyMzY1M119
 -->
