@@ -16,6 +16,7 @@ description: 파닥파닥강의
 
 ![](https://i.ibb.co/BnhDWv2/image.png =300x)
 [탭화면 선택](https://edu.goorm.io/learn/lecture/17450/%ED%8C%8C%EB%8B%A5%ED%8C%8C%EB%8B%A5-flutter-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EA%B0%80%EB%B3%8D%EA%B2%8C-flutter-%ED%9D%94%EB%93%A4%EA%B8%B0/lesson/851223/%ED%83%AD-%ED%99%94%EB%A9%B4-%EA%B0%9C%EB%B0%9C)
+![](https://i.ibb.co/f4121x8/image.png =300x)
 ```js
 import 'package:flutter/material.dart';
 import 'grid_page.dart';
@@ -115,6 +116,6 @@ Widget _buildPage(index){
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzczNjI1OCwtMTgwNjkxMDM4NywtMT
-Q3Mzk0MDIyNCw4MDgyODcwMTIsMTQ0NzkyNzE3OV19
+eyJoaXN0b3J5IjpbMjc5MTA2NzM1LC0xODA2OTEwMzg3LC0xND
+czOTQwMjI0LDgwODI4NzAxMiwxNDQ3OTI3MTc5XX0=
 -->
