@@ -14,8 +14,105 @@ description: 파닥파닥강의
 ![](https://i.ibb.co/VD45P2f/image.png =300x)
 ![](https://i.ibb.co/jWLsqLP/image.png =300x)
 
+![](https://i.ibb.co/BnhDWv2/image.png =300x)
+```js
+import 'package:flutter/material.dart';
+import 'grid_page.dart';
+import 'list_page.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'title',
+      theme: ThemeData(
+        primarySwatch: Colors.red,
+      ),
+      home: MainPage(),
+    );
+  }
+}
+
+
+class MainPage extends StatefulWidget{
+
+  @override
+  State<StatefulWidget> createState(){
+    return _MainPageState();
+  }
+}
+
+class _MainPageState extends State<MainPage>{
+
+  int _selectedTabIndex = 0;
+
+  @override
+  Widget build (BuildContext context){
+    return Scaffold(
+      appBar: AppBar(
+        // leading: Icon(Icons.menu),
+      
+        title: Text('h5eeeeeead'),
+        actions: <Widget>[
+          PopupMenuButton<int>(
+            icon: Icon(Icons.sort),
+            onSelected: (value) {
+              if(value == 0) print("aaa");
+              else if(value == 1) print("bbb");
+              else print("ccc");
+            },
+            itemBuilder: (context) {
+              return [
+                PopupMenuItem(value: 0, child: Text("aaa")),
+                PopupMenuItem(value: 1, child: Text("bbb")),
+                PopupMenuItem(value: 2, child: Text("ccc")),
+              ];
+            },
+          )
+        ],
+      ),
+
+      body: _buildPage(_selectedTabIndex),
+
+      bottomNavigationBar: BottomNavigationBar(
+       items: <BottomNavigationBarItem>[
+         BottomNavigationBarItem(
+          icon: Icon(Icons.view_list),
+          title: Text('List'),
+        ),
+            BottomNavigationBarItem(
+             icon: Icon(Icons.grid_on),
+            title: Text('Grid'),
+          ),
+        ],
+        currentIndex: _selectedTabIndex,
+        onTap: (index){
+           setState((){   -------------------------------->>>>>>리스트 버튼 선택 
+              _selectedTabIndex = index;
+              print("$_selectedTabIndex Tab Clicked");
+           });
+
+        },
+      )
+    );
+  }
+}
+Widget _buildPage(index){
+  if(index == 0)
+    return ListPage();
+    else 
+    return GridPage();
+}
+
+
+
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY5MTAzODcsLTE0NzM5NDAyMjQsOD
-A4Mjg3MDEyLDE0NDc5MjcxNzldfQ==
+eyJoaXN0b3J5IjpbMTkxOTA2NjEzLC0xODA2OTEwMzg3LC0xND
+czOTQwMjI0LDgwODI4NzAxMiwxNDQ3OTI3MTc5XX0=
 -->
