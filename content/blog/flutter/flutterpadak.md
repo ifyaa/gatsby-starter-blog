@@ -90,7 +90,7 @@ class _MainPageState extends State<MainPage>{
           ),
         ],
         currentIndex: _selectedTabIndex,
-        onTap: (index){
+        onTap: (index){                    StatefulWidget로 바꾸고 SetState()한줄만 삽입하면됨
            setState((){   -------------------------------->>>>>>리스트 버튼 선택 
               _selectedTabIndex = index;
               print("$_selectedTabIndex Tab Clicked");
@@ -101,6 +101,7 @@ class _MainPageState extends State<MainPage>{
     );
   }
 }
+##------------------------>>화면전환 
 Widget _buildPage(index){
   if(index == 0)
     return ListPage();
@@ -113,6 +114,6 @@ Widget _buildPage(index){
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTA2NjEzLC0xODA2OTEwMzg3LC0xND
-czOTQwMjI0LDgwODI4NzAxMiwxNDQ3OTI3MTc5XX0=
+eyJoaXN0b3J5IjpbMTI5NDg0Nzk4MywtMTgwNjkxMDM4NywtMT
+Q3Mzk0MDIyNCw4MDgyODcwMTIsMTQ0NzkyNzE3OV19
 -->
