@@ -190,7 +190,7 @@ class _MyAppState extends State<MyApp> {
   }
 }
 ```
-
+[initState](https://jaceshim.github.io/2019/01/28/flutter-study-stateful-widget-lifecycle/)
 ```js
 // lib/screen/home_screen.dart
 import 'package:flutter/material.dart';
@@ -616,6 +616,6 @@ List<Widget> makeIndicator(List list, int _currentPage) {
 }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjAzNDEwOSwtNTcxMTE0NTk5LC0xMT
-Y0MDI5MzE3XX0=
+eyJoaXN0b3J5IjpbLTY1NzI0NTgwMiwtNjEyMDM0MTA5LC01Nz
+ExMTQ1OTksLTExNjQwMjkzMTddfQ==
 -->
