@@ -64,6 +64,7 @@ class _MyAppState extends State<MyApp> {
   }
 }
 ```
+[탭사용법](https://here4you.tistory.com/125)
 ```js
 // lib/widget/bottom_bar.dart
 import 'package:flutter/material.dart';
@@ -615,5 +616,6 @@ List<Widget> makeIndicator(List list, int _currentPage) {
 }
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTExNDU5OSwtMTE2NDAyOTMxN119
+eyJoaXN0b3J5IjpbLTYxMjAzNDEwOSwtNTcxMTE0NTk5LC0xMT
+Y0MDI5MzE3XX0=
 -->
