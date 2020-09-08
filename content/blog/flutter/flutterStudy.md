@@ -3,6 +3,10 @@ title: flotter 강의모음
 date: "2020-07-13"
 description: flotter 강의모음.
 ---
+web
+[소스](https://github.com/crongro/node_server_inflearn)
+
+
 
 [Material Components widgets 종류들](https://flutter.dev/docs/development/ui/widgets/material)
 [# flutter tutorial WebView-상세설명](https://www.youtube.com/watch?v=tCBOBf6S5hQ&list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ&index=41&t=0s)
@@ -37,9 +41,9 @@ description: flotter 강의모음.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNzExODYyLDM2OTMxODU4OSwxODMyNz
-Q1NTM1LDE5NTE5ODY4NTIsLTIxNDE3NzMxMDIsMTQ3ODM4NTY0
-MCwzNjAyMzgyMjQsMTEzNTE0MjA5OSwzMTgzMjEzNjAsMjEzNz
-A4OTU2NiwtMTQwOTI0MDcyLC0xMDgxMjYzNDI3LDExODEzMjM2
-NTNdfQ==
+eyJoaXN0b3J5IjpbMTcxMTM3NTgxNiwyNTM3MTE4NjIsMzY5Mz
+E4NTg5LDE4MzI3NDU1MzUsMTk1MTk4Njg1MiwtMjE0MTc3MzEw
+MiwxNDc4Mzg1NjQwLDM2MDIzODIyNCwxMTM1MTQyMDk5LDMxOD
+MyMTM2MCwyMTM3MDg5NTY2LC0xNDA5MjQwNzIsLTEwODEyNjM0
+MjcsMTE4MTMyMzY1M119
 -->
