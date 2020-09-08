@@ -3,9 +3,9 @@ title: flotter 강의모음
 date: "2020-07-13"
 description: flotter 강의모음.
 ---
-web
+web express
 [소스](https://github.com/crongro/node_server_inflearn)
-
+[강의](https://www.inflearn.com/course/node-js-%EC%9B%B9%EA%B0%9C%EB%B0%9C/lecture/6120?tab=curriculum)
 
 
 [Material Components widgets 종류들](https://flutter.dev/docs/development/ui/widgets/material)
@@ -41,9 +41,9 @@ web
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMTM3NTgxNiwyNTM3MTE4NjIsMzY5Mz
-E4NTg5LDE4MzI3NDU1MzUsMTk1MTk4Njg1MiwtMjE0MTc3MzEw
-MiwxNDc4Mzg1NjQwLDM2MDIzODIyNCwxMTM1MTQyMDk5LDMxOD
-MyMTM2MCwyMTM3MDg5NTY2LC0xNDA5MjQwNzIsLTEwODEyNjM0
-MjcsMTE4MTMyMzY1M119
+eyJoaXN0b3J5IjpbLTExNDU1MTU4NDUsMjUzNzExODYyLDM2OT
+MxODU4OSwxODMyNzQ1NTM1LDE5NTE5ODY4NTIsLTIxNDE3NzMx
+MDIsMTQ3ODM4NTY0MCwzNjAyMzgyMjQsMTEzNTE0MjA5OSwzMT
+gzMjEzNjAsMjEzNzA4OTU2NiwtMTQwOTI0MDcyLC0xMDgxMjYz
+NDI3LDExODEzMjM2NTNdfQ==
 -->
