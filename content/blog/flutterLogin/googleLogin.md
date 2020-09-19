@@ -6,6 +6,7 @@ description: googleLogin
 [google Login](https://fkkmemi.github.io/ff/ff-001/)
 [동영상](https://dev.to/happyharis/flutter-web-google-sign-in-42bb)
 
+### 5장 움직이는 화면
 ```js
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -122,6 +123,6 @@ Widget _main(){
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEyMjU5OTcsMzIzNTE1MzkxLC0xMj
-k2NzYzMjYxXX0=
+eyJoaXN0b3J5IjpbODQ0MzUwODM3LDMyMzUxNTM5MSwtMTI5Nj
+c2MzI2MV19
 -->
