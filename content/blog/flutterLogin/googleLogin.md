@@ -7,6 +7,8 @@ description: googleLogin
 [동영상](https://dev.to/happyharis/flutter-web-google-sign-in-42bb)
 
 ### Runner.xcworkspace
+
+ open ios/Runner.xcworkspace. 
 ![](https://i.ibb.co/nRG8Cvm/Screen-Shot-2020-09-19-at-4-13-38-PM.png =300x300)
 ### 5장 화면전환
 ![](https://fkkmemi.github.io/images/ff/2019-12-11_15.53.18.gif)
@@ -126,6 +128,6 @@ Widget _main(){
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwODkyNTQ4LDg0NDM1MDgzNywzMjM1MT
-UzOTEsLTEyOTY3NjMyNjFdfQ==
+eyJoaXN0b3J5IjpbLTE5NTk5NDc3MDIsMzIwODkyNTQ4LDg0ND
+M1MDgzNywzMjM1MTUzOTEsLTEyOTY3NjMyNjFdfQ==
 -->
