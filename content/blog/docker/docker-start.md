@@ -4,11 +4,9 @@ date: "2020-09-20"
 description: docker express
 ---
 
-도커빌드
-
-![](https://i.ibb.co/yWsRpkk/Screen-Shot-2020-09-20-at-12-13-37-AM.png)
+app.js 생성과 npm init
 ![](https://i.ibb.co/LhxSt14/3.png)
-![](https://i.ibb.co/mrj4j2m/Screen-Shot-2020-09-20-at-10-15-03-AM.png)
+
 
 express 설치
 ![](https://i.ibb.co/gMxq3dN/Screen-Shot-2020-09-20-at-10-21-15-AM.png)
@@ -21,9 +19,9 @@ express 설치
 
 도커에서 실행
 ![](https://i.ibb.co/Rgtxtpd/Screen-Shot-2020-09-20-at-10-22-35-AM.png)
-![]()
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTQ2NDg1MV19
+eyJoaXN0b3J5IjpbLTY2MzAyMzI3Ml19
 -->
