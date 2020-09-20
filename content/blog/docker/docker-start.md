@@ -3,7 +3,7 @@ title: docker express
 date: "2020-09-20"
 description: docker express
 ---
-
+[e](https://www.youtube.com/watch?v=CsWoMpK3EtE)
 app.js 생성과 npm init
 ![](https://i.ibb.co/LhxSt14/3.png)
 
@@ -23,5 +23,5 @@ express 설치
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzAyMzI3Ml19
+eyJoaXN0b3J5IjpbLTE3NTU0NzYxMjEsLTY2MzAyMzI3Ml19
 -->
